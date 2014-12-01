@@ -6,4 +6,4 @@ data = json.load(json_data)
 pprint(data)
 json_data.close()
 
-
+how to use for in command for this program ..
